@@ -11,8 +11,14 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            //"program": "ISSubsequence/IsSubsequence.js"
-            "program": "Counter/Counter.js"
+            //"program": "javascript-code/5.Palindrome/Palindrome.js"
+            "program": "javascript-code/20.ValidParentheses/ValidParentheses.js"
+            //"program": "javascript-code/41.FirstMissingPositive/FirstMissingPositive.js"
+            //"program": "javascript-code/49.GroupAnagrams/GroupAnagrams.js"
+            //"program": "javascript-code/169.MajorityElement/MajorityElement.js"
+            //"program": "javascript-code/238.productExceptSelf/productExceptSelf.js"
+            //"program": "javascript-code/392.ISSubsequence/IsSubsequence.js"
+            //"program": "javascript-code/2620.Counter/Counter.js"
         }
     ]
 }
